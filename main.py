@@ -1,4 +1,4 @@
-# Parei em  minutos
+# Parei em 4:00 minutos
 from manim import Scene, Circle, Square, Create,Transform
 
 class Animacao(Scene):
