@@ -1,4 +1,4 @@
-# Parei em 21:00 minutos
+# Parei em  minutos
 from manim import Scene, Circle, Square, Create,Transform
 
 class Animacao(Scene):
@@ -7,5 +7,5 @@ class Animacao(Scene):
         quadrado = Square() # Quadrado
 
         self.play(Create(circulo)) # Cria o círculo na cena
+        self.pause(3)
         self.play(Transform(circulo, quadrado)) # Transforma o círculo em quadrado
-
