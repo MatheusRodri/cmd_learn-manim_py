@@ -6,6 +6,11 @@ Este projeto é uma série de vídeos que ensina a usar a biblioteca Manim para 
 
 ## Comandos
 
+Circle() -> Cria um círculo
+Square() -> Cria um quadrado
+self.play() -> Executa uma animação
+self.pause(3) -> Pausa por 3 segundos
+Transform(circulo, quadrado) -> Transforma o símbolo do primeiro parâmetro no segundo parâmetro
 
 ## Como rodar o projeto: 
 
