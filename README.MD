@@ -4,13 +4,10 @@
 
 Este projeto é uma série de vídeos que ensina a usar a biblioteca Manim para criar animações matemáticas e visuais. O objetivo é fornecer um guia passo a passo para iniciantes, cobrindo desde a instalação até a criação de animações mais complexas.
 
-## Comandos
+## Tecnologias utilizadas
 
-Circle() -> Cria um círculo
-Square() -> Cria um quadrado
-self.play() -> Executa uma animação
-self.pause(3) -> Pausa por 3 segundos
-Transform(circulo, quadrado) -> Transforma o símbolo do primeiro parâmetro no segundo parâmetro
+- Python
+    - Manim (Mathematical Animation Engine)
 
 ## Como rodar o projeto: 
 
