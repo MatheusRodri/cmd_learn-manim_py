@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Este projeto é uma série de vídeos que ensina a usar a biblioteca Manim para criar animações matemáticas e visuais. O objetivo é fornecer um guia passo a passo para iniciantes, cobrindo desde a instalação até a criação de animações mais complexas.
+Este projeto é uma série de vídeos que ensina a usar a biblioteca Manim para criar animações matemáticas e visuais.
 
 ## Tecnologias utilizadas
 
