@@ -1,9 +1,9 @@
 from manim import Scene, Circle, Square, Create,Transform # Import de Funções que serão usadas
 from manim import BLUE # Import de Cores do próprio manim
 
-# Cria uma classe de cena que herda de Scene
-class Animacao(Scene):
-    def construct(self):
+
+class Animacao(Scene): # Cria uma classe de cena que herda de Scene
+    def construct(self): # Método construtor da classe
         circulo = Circle() # Cria um círculo
         quadrado = Square(color=BLUE) # Cria um quadrado
 
