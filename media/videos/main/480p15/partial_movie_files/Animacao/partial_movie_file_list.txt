@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Projects/cmd_learn-manim_py/media/videos/main/480p15/partial_movie_files/Animacao/1185818338_3789429803_223132457.mp4'
-file 'file:C:/Projects/cmd_learn-manim_py/media/videos/main/480p15/partial_movie_files/Animacao/624642324_1734327179_151624741.mp4'
-file 'file:C:/Projects/cmd_learn-manim_py/media/videos/main/480p15/partial_movie_files/Animacao/624642324_1703504961_578674303.mp4'
