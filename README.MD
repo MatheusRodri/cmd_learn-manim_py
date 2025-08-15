@@ -1,7 +1,5 @@
 # Learn Manim
 
-## Sobre o projeto
-
 Este projeto é uma série de vídeos que ensina a usar a biblioteca Manim para criar animações matemáticas e visuais.
 
 ## Tecnologias utilizadas

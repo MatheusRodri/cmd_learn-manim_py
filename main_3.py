@@ -1,8 +1,8 @@
-from manim import Scene # Import de Funções que serão usadas
+from manim import ThreeDScene # Import de Funções que serão usadas
 from manim import Text,Create, Rectangle, Uncreate # Import de Funções que serão usadas
 from manim import ORANGE # Import de Cores que serão usadas
 
-class Animacao(Scene): # Cria uma classe de cena que herda de Scene
+class Animacao(ThreeDScene): # Cria uma classe de cena que herda de Scene
     def construct(self): # Método construtor da classe
         t = Text("Olá, Manim!",color='#fff') # Cria um texto
         t2 = Text("Fala Matheus !", color='#fff') # Cria um segundo texto
@@ -11,9 +11,6 @@ class Animacao(Scene): # Cria uma classe de cena que herda de Scene
         self.camera.background_color = '#000' # Define a cor de fundo da cena
         self.play(Create(t)) # Cria o texto na cena
         self.wait(1) # Espera 1 segundo
-
-        self.move_camera
-
         self.play(Create(r)) # Cria o retângulo na cena
  
         self.play(
