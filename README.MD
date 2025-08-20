@@ -2,6 +2,11 @@
 
 Este projeto é uma série de vídeos que ensina a usar a biblioteca Manim para criar animações matemáticas e visuais.
 
+## Requisitos 
+
+- Editor de codigo
+- Python
+
 ## Tecnologias utilizadas
 
 - Python
